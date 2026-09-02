@@ -31,6 +31,11 @@ This project presents an end-to-end data analysis and machine learning pipeline 
   * **Model Accuracy ($R^2$):** 48.94%
 * **Visualization:** Generated an actual vs. predicted revenue scatter plot overlaying a diagonal reference line to assess residual variance.
 
+* <img width="1432" height="803" alt="Screenshot 2026-08-01 140503" src="https://github.com/user-attachments/assets/dd989d75-200d-414f-aa4c-d2ac0e2572bb" />
+<img width="1433" height="801" alt="Screenshot 2026-08-01 140437" src="https://github.com/user-attachments/assets/2e0ff574-ac26-41e9-bb48-9425996ddeef" />
+<img width="1433" height="803" alt="Screenshot 2026-08-01 140522" src="https://github.com/user-attachments/assets/22da81a9-39be-42da-890e-712a5a30c741" />
+
+
 ---
 
 ## Tech Stack
